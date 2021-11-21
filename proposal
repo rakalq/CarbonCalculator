@@ -1,0 +1,33 @@
+Proposal
+What will (likely) be the title of your project?
+The Carbon Emissions Calculator for Vehicles
+
+In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+A website that will calculate the weekly carbon emissions output for civilian vehicles with the fuel type of either Gasoline or Diesel. Following their input, we will calculate their output and compare it to the national average to tell them whether their emissions are above or below the average.
+
+In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+Our application will be using HTML and Javascript for the front facing site. We will use javascript to execute our calculations, once users enter their metrics. To start, we will ask the user for their miles driven within the last week, the vehicles miles per gallon, and the vehicles fuel type. Once this is taken in, the software will find the amount of gallons driven, and based on the fuel type we will be able to tell the user their output within the last week in the form of Grams of CO2 per gallon.
+We have also calculated the weekly average for consumer vehicular emissions output. We will compare this to the users output, and if it is below the average, we will give them a message with green text telling them that they did good, or a message in red text alerting them that they are above the average and they should change their driving habits to have a less adverse affect on the environment.
+
+Our software will have two tabs, one tab acting as the home page where they will find the calculator--and the other acting as a page with suggestions built in for how to lower their individual vehicular output.
+
+If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+NONE
+
+If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+Rakan Alqtaishat tuj12218@temple.edu Joanne Nichols
+
+In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+The good outcome, no matter what, will be a site that calculates carbon emissions from a users vehicle based on our metrics. We will also have the seperate tab with suggestions on how to better output. This is definite.
+
+In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+A better outcome, would be for us to figure a way to directly display suggestions on the page for how to lower carbon emission output (if they are above the national average). For example, if a user enters their metrics, and they are above the average, there will be suggestions that immediately pop up for how to lower their output.
+
+In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+In regards to the goal above, we would want to link the website to an API in order to generate the best suggestions for them based on their individual metrics and how high or below they were compared to the national average--this would make the suggestions have a more tailored fit to the user, compared to getting random suggestions that we have compiled.
+
+In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+I will need to do more research in HTML, JS, and I also would like to learn databasing so that I could log the results for each user.
+Tristan: will have the duties of working with the JS formulas. I will also work with the buttons to ensure the page can properly run when a user clicks a button.
+Rakan: will have the duty of making the visuals to the site in HTML.
